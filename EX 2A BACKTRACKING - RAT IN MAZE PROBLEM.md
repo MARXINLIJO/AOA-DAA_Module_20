@@ -14,8 +14,8 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 ## Program:
 ```
 Program to implement Rat in a Maze.
-Developed by: LOKNAATH P
-Register Number: 212223240080  
+Developed by:Marxin Lijo M
+Register Number: 212223240085  
 ```
 ```python
 N = 4
